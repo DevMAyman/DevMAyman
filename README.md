@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/mohamed-ayman-071087263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <div id="counter" align="center">
