@@ -3,14 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/islam-sulaiman">
+  <a href="https://www.linkedin.com/in/mohamed-ayman-071087263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://islamsulaiman.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-lightgrey?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
 
@@ -37,7 +34,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on LeetCode and HackerRank.
-- :mailbox: How to reach me: *eng.islam.sulaiman@gmail.com*
+- :mailbox: How to reach me: *eng.developer.mohamed.ayman@gmail.com*
 
 ---
 
@@ -77,6 +74,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Islamsulaiman&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DevMAyman&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Islamsulaiman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMAyman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
