@@ -69,38 +69,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
-### :sparkles: Featured Projects :
-
-<div align="center">
-  <a href="https://github.com/DevMAyman/Project1" style="text-decoration:none">
-    <div style="display: inline-block; margin: 10px; border: 1px solid #ccc; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <img src="https://via.placeholder.com/300x150" alt="Project Image" style="border-top-left-radius: 8px; border-top-right-radius: 8px; width: 100%;">
-      <div style="padding: 10px;">
-        <h3>Project 1</h3>
-        <p>A short description of Project 1.</p>
-        <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/DevMAyman/Project2" style="text-decoration:none">
-    <div style="display: inline-block; margin: 10px; border: 1px solid #ccc; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <img src="https://via.placeholder.com/300x150" alt="Project Image" style="border-top-left-radius: 8px; border-top-right-radius: 8px; width: 100%;">
-      <div style="padding: 10px;">
-        <h3>Project 2</h3>
-        <p>A short description of Project 2.</p>
-        <p><strong>Tech Stack:</strong> JavaScript, Express.js, MySQL</p>
-      </div>
-    </div>
-  </a>
-  <a href="https://github.com/DevMAyman/Project3" style="text-decoration:none">
-    <div style="display: inline-block; margin: 10px; border: 1px solid #ccc; border-radius: 8px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <img src="https://via.placeholder.com/300x150" alt="Project Image" style="border-top-left-radius: 8px; border-top-right-radius: 8px; width: 100%;">
-      <div style="padding: 10px;">
-        <h3>Project 3</h3>
-        <p>A short description of Project 3.</p>
-        <p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
-      </div>
-    </div>
-  </a>
-</div>
-
